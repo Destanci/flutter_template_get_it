@@ -1,0 +1,12 @@
+{
+  "appTitle": "template_first",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "sampleTitle": "Sample Items",
+  "sampleItem": "Sample Item",
+  "sampleItemDescription": "Sample Item Description",
+  "itemDetails": "Item Details",
+  "moreInformationHere": "More Information Here",
+  "settingsPageTitle": "إعدادات"
+}

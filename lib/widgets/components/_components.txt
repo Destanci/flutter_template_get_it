@@ -1,0 +1,5 @@
+Components are some widgets thats are not dependend on other objects of this project, 
+can copy paste to another project.
+
+Usually they dont have any Scaffold.
+To be used in a page.

@@ -1,0 +1,12 @@
+{
+  "appTitle": "ilk_örnek",
+  "@appTitle": {
+    "description": "Aplikasyonun Başlığı"
+  },
+  "sampleTitle": "Örnek Eşyalar",
+  "sampleItem": "Örnek Eşya",
+  "sampleItemDescription": "Örnek eşya açıklaması",
+  "itemDetails": "Eşya Detayları",
+  "moreInformationHere": "Burda daha fazla bilgi olacak",
+  "settingsPageTitle": "Ayarlar"
+}

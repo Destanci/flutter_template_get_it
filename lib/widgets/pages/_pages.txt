@@ -1,0 +1,5 @@
+Pages are the fully depended widdget of this project.
+Should not be copied to another project.
+
+Usually they have a Scaffold, but in case of Page Viewers they might not have one.
+To be used in the Navigator.

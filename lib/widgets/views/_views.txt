@@ -1,0 +1,5 @@
+Views are some widgets thats are DEPENDEND on other objects of this project.
+Can copy paste to another project only if has the same or related dependency.
+
+Usually they dont have any Scaffold.
+To be used in a page.
